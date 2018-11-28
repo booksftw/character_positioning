@@ -1,11 +1,11 @@
-var test = "hi hi";
+// var test = "hi hi";
 
-// Is this what the question wants me to return?
-// https://web.compass.lighthouselabs.ca/activities/288
-var indiceObj = {
-  h : [0, 3],
-  i : [2,4]
-}
+// // Is this what the question wants me to return?
+// // https://web.compass.lighthouselabs.ca/activities/288
+// var indiceObj = {
+//   h : [0, 3],
+//   i : [2,4]
+// }
 
 
 var userInput = process.argv.slice(2); // array of words
